@@ -1,0 +1,6 @@
+C:\Users\Kevin\Documents\Udemy\exercise\CRUDXml\CRUDXml\bin\Debug\CRUDXml.exe.config
+C:\Users\Kevin\Documents\Udemy\exercise\CRUDXml\CRUDXml\bin\Debug\CRUDXml.exe
+C:\Users\Kevin\Documents\Udemy\exercise\CRUDXml\CRUDXml\bin\Debug\CRUDXml.pdb
+C:\Users\Kevin\Documents\Udemy\exercise\CRUDXml\CRUDXml\obj\Debug\CRUDXml.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Udemy\exercise\CRUDXml\CRUDXml\obj\Debug\CRUDXml.exe
+C:\Users\Kevin\Documents\Udemy\exercise\CRUDXml\CRUDXml\obj\Debug\CRUDXml.pdb
